@@ -1,0 +1,4 @@
+name: FoxDupePatch
+version: '${project.version}'
+main: org.dusten.foxdupepatch.FoxDupePatch
+api-version: '1.20'
